@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Onereader.io/static/css/main.4348bfec.chunk.css",
+    "main.js": "/Onereader.io/static/js/main.5e1cbbfc.chunk.js",
+    "main.js.map": "/Onereader.io/static/js/main.5e1cbbfc.chunk.js.map",
+    "runtime-main.js": "/Onereader.io/static/js/runtime-main.eb85f54f.js",
+    "runtime-main.js.map": "/Onereader.io/static/js/runtime-main.eb85f54f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Onereader.io/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.88034b7c.chunk.js": "/Onereader.io/static/js/2.88034b7c.chunk.js",
+    "static/js/2.88034b7c.chunk.js.map": "/Onereader.io/static/js/2.88034b7c.chunk.js.map",
+    "index.html": "/Onereader.io/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Onereader.io/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.4348bfec.chunk.css.map": "/Onereader.io/static/css/main.4348bfec.chunk.css.map",
+    "static/js/2.88034b7c.chunk.js.LICENSE.txt": "/Onereader.io/static/js/2.88034b7c.chunk.js.LICENSE.txt",
+    "static/media/deepbag.4e5e3298.jpg": "/Onereader.io/static/media/deepbag.4e5e3298.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb85f54f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.88034b7c.chunk.js",
+    "static/css/main.4348bfec.chunk.css",
+    "static/js/main.5e1cbbfc.chunk.js"
+  ]
+}
